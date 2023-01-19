@@ -30,7 +30,7 @@ export default function Home({
           follow me on <a href="https://mastodon.social/@queuebit">Mastodon</a>.
         </p>
         <p>
-          (This is a sample website - you'll be building a site like this on{" "}
+          (This is a sample website - you’ll be building a site like this on{" "}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
